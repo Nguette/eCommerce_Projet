@@ -24,6 +24,36 @@
                 height :500px;
                 padding-top:100px;
             }
+            img.Slider-img{
+                height:400px ! important
+            }
+            .custom-product{
+                height:600px;
+            }
+            .slider-text{
+                background-color: #35443585 ! important;
+            }
+            .trending-image{
+                height:100px;
+            }
+            .trening-item{
+                float:left;
+            }
+            .trending-wrapper{
+                margin:30px;
+            }
+            .detail-img{
+                height:200px;
+            }
+            .search-box{
+                width:500px ! important;
+            }
+            .cart-list-devider{
+                border-bottom:1px solid #ccc;
+                margin-bottom:20px;
+                padding-bottom:20px;   
+             }
+
     </style>
 
 </html>
